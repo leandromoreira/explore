@@ -22,7 +22,11 @@ items:
   - backend-br/desafios
   - backend-br/vagas
   - githubpresente/octogatosconf22
-  - github/brasil 
+  - github/brasil
+  - leandromoreira/redlock-rb
+  - leandromoreira/digital_video_introduction
+  - leandromoreira/linux-network-performance-parameters
+  - leandromoreira/cdn-up-and-running
   
 display_name: Made in Brazil
 created_by: caarlos0
